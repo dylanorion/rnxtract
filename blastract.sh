@@ -2,7 +2,7 @@
 
 # -------- readme
 
-# Name of script: blastoff.sh
+# Name of script: blastract.sh
 # Purpose: blast for genes of interest in a set of contigs and obtain sequences.
 # Dependencies: blast, strip.py (python script)
 # Author: Dylan O. Burge
